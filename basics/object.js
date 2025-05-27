@@ -81,9 +81,17 @@ const user = [
         email: "mkmdjsn3"
     }
 ]
-user[1].email
-console.log(tinderUser)
-console.log(Object.keys(tinderUser));
-console.log(Object.values(tinderUser));
-console.log(Object.entries(tinderUser));
-console.log(tinderUser.hasOwnProperty('name'));
+// user[1].email
+// console.log(tinderUser)
+// console.log(Object.keys(tinderUser));
+// console.log(Object.values(tinderUser));
+// console.log(Object.entries(tinderUser));
+// console.log(tinderUser.hasOwnProperty('name'));
+
+// const course = {
+//     coursename: "jS",
+//     price: "999",
+//     courseInstructor: "sakshi"
+// }
+// const {courseInstructor: instructor}  = course
+// console.log( instructor);// destructure we can chnge the name for easy acces
